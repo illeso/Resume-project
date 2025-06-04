@@ -1,0 +1,40 @@
+Patient: John Doe
+Date: 2024-03-20
+Age: 45
+Gender: Male
+
+Chief Complaint:
+Patient presents with persistent cough and fever (38.2°C) for the past 3 days.
+
+Medical History:
+- Hypertension (diagnosed 2018)
+- Type 2 Diabetes (diagnosed 2020)
+- Previous appendectomy (2015)
+
+Current Medications:
+- Lisinopril 10mg daily
+- Metformin 500mg BID
+- Aspirin 81mg daily
+
+Physical Examination:
+- Temperature: 38.2°C
+- Blood Pressure: 145/90 mmHg
+- Heart Rate: 88 bpm
+- Respiratory Rate: 20 breaths/min
+- Oxygen Saturation: 98% on room air
+
+Assessment:
+1. Acute upper respiratory infection
+2. Poorly controlled hypertension
+3. Type 2 Diabetes Mellitus
+
+Plan:
+1. Prescribe Amoxicillin 500mg TID for 7 days
+2. Increase Lisinopril to 20mg daily
+3. Continue current diabetes medications
+4. Follow up in 1 week
+5. Recommend rest and increased fluid intake
+
+Notes:
+Patient advised to monitor blood glucose levels more frequently during illness.
+Consider adding Tylenol 500mg Q6H PRN for fever. 
